@@ -1,6 +1,6 @@
 # Building A Championship NFL Team
 
-A multi-page website breaking down the five pillars behind every NFL dynasty — quarterback play, defense, coaching, roster construction, and culture.
+A class assignment built as a multi-page website breaking down the five pillars behind every NFL dynasty. This includes quarterback play, defense, coaching, roster construction, and culture.
 ---
 
 ## Pages
